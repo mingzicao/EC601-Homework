@@ -1,9 +1,9 @@
-# EC601-HW1-Team22
-Team 22 Mini Project for Homework 1
+# EC601-HW1-Team23
+Team 23 Mini Project for Homework 1
 
 # Team Members
-- Davide Lucchi
-- Sami Shahin
-- Tianyi Zhang
+- Mingzi Cao
+- Chao Ma
+- Ming Cheng
 
 # Project Name (TBD)
