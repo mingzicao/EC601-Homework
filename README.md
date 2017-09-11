@@ -1,5 +1,5 @@
 # EC601-Homework
 Team member:
-Mingzi Cao
+Mingzi Cao\n
 Ming Cheng
 Chao Ma
